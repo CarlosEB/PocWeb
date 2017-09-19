@@ -1,0 +1,2 @@
+c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc.Tests\obj\Debug\WebPoc.Tests.csprojResolveAssemblyReference.cache
+c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc.Tests\obj\Debug\WebPoc.Tests.csproj.CoreCompileInputs.cache

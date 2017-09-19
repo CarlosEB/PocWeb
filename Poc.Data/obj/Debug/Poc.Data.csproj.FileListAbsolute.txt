@@ -1,0 +1,13 @@
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\Poc.Data.dll.config
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\Poc.Data.dll
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\Poc.Data.pdb
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\EntityFramework.dll
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\Poc.Domain.dll
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\Poc.Domain.pdb
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\EntityFramework.xml
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\obj\Debug\Poc.Data.csprojResolveAssemblyReference.cache
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\obj\Debug\Poc.Data.csproj.CoreCompileInputs.cache
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\obj\Debug\Poc.Data.dll
+c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\obj\Debug\Poc.Data.pdb
