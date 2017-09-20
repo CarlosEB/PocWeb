@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPoc", "WebPoc\WebPoc.csproj", "{ED44A20F-45B1-401F-80C3-2967B2825F5E}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{44B7607A-17AD-472A-A4B3-E9E687FA4A69}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Tests", "4 - Tests", "{A4DC3A5D-5741-471C-81CD-78E7A1F0E82E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poc.App", "Poc.App\Poc.App.csproj", "{DDEDC01E-2F32-4565-8BB6-68BFDAC6F3EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{73484614-FA3E-44E8-9525-A80810D8EC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73484614-FA3E-44E8-9525-A80810D8EC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73484614-FA3E-44E8-9525-A80810D8EC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEDC01E-2F32-4565-8BB6-68BFDAC6F3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEDC01E-2F32-4565-8BB6-68BFDAC6F3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEDC01E-2F32-4565-8BB6-68BFDAC6F3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEDC01E-2F32-4565-8BB6-68BFDAC6F3EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{54A85112-C4F6-490C-9A1B-1F8FD5EB1D34} = {A4DC3A5D-5741-471C-81CD-78E7A1F0E82E}
 		{7958F092-8E6E-4549-AAC9-6911E650199C} = {2B5980F1-D3FA-419F-91C2-6CDC99D8C07B}
 		{73484614-FA3E-44E8-9525-A80810D8EC6A} = {44B7607A-17AD-472A-A4B3-E9E687FA4A69}
+		{DDEDC01E-2F32-4565-8BB6-68BFDAC6F3EA} = {C5743B63-30AB-432B-9D90-7678C9E52BC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D99BFB09-93A2-43CA-A9CC-B595426ACC01}

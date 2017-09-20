@@ -11,3 +11,15 @@ c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\ob
 c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\obj\Debug\Poc.Data.csproj.CoreCompileInputs.cache
 c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\obj\Debug\Poc.Data.dll
 c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Data\obj\Debug\Poc.Data.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\Poc.Data.dll.config
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\Poc.Data.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\Poc.Data.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\EntityFramework.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\Poc.Domain.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\EntityFramework.xml
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlos\repositories\PocWeb\Poc.Data\obj\Debug\Poc.Data.csprojResolveAssemblyReference.cache
+C:\Users\carlos\repositories\PocWeb\Poc.Data\obj\Debug\Poc.Data.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\obj\Debug\Poc.Data.pdb

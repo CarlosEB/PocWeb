@@ -1,104 +1,105 @@
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\obj\Debug\WebPoc.csprojResolveAssemblyReference.cache
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\obj\Debug\WebPoc.csproj.CoreCompileInputs.cache
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\ApplicationInsights.config
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\csc.exe
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\csc.exe.config
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\csc.rsp
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\csi.exe
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\csi.exe.config
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\csi.rsp
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\Microsoft.Win32.Primitives.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.AppContext.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Collections.Immutable.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Console.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Diagnostics.Process.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Diagnostics.StackTrace.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.IO.Compression.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.IO.FileSystem.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.IO.Pipes.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Security.AccessControl.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Security.Claims.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Security.Principal.Windows.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Text.Encoding.CodePages.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Threading.Thread.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.ValueTuple.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Xml.ReaderWriter.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Xml.XmlDocument.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Xml.XPath.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\System.Xml.XPath.XDocument.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\vbc.exe
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\vbc.exe.config
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\vbc.rsp
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\VBCSCompiler.exe
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\roslyn\VBCSCompiler.exe.config
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\WebPoc.dll.config
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\WebPoc.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\WebPoc.pdb
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Antlr3.Runtime.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.Agent.Intercept.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.DependencyCollector.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.PerfCounterCollector.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.ServerTelemetryChannel.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.Web.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.WindowsServer.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.ApplicationInsights.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.Web.Infrastructure.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Newtonsoft.Json.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Poc.Data.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Poc.Domain.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\SimpleInjector.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\SimpleInjector.Integration.Web.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\SimpleInjector.Integration.Web.Mvc.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Helpers.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Mvc.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Optimization.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Razor.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.WebPages.Deployment.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.WebPages.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.WebPages.Razor.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\WebActivator.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\WebGrease.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\EntityFramework.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Poc.Data.pdb
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Poc.Data.dll.config
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Poc.Domain.pdb
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\SimpleInjector.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\SimpleInjector.Integration.Web.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\SimpleInjector.Integration.Web.Mvc.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Helpers.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Mvc.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Optimization.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.Razor.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.WebPages.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.WebPages.Deployment.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\System.Web.WebPages.Razor.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Antlr3.Runtime.pdb
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Newtonsoft.Json.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.ApplicationInsights.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.DependencyCollector.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.ServerTelemetryChannel.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.WindowsServer.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\Microsoft.AI.Web.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\bin\EntityFramework.xml
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\obj\Debug\WebPoc.dll
-c:\users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\WebPoc\obj\Debug\WebPoc.pdb
+C:\Users\carlos\repositories\PocWeb\WebPoc\obj\Debug\WebPoc.csprojResolveAssemblyReference.cache
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\ApplicationInsights.config
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\csc.exe
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\csc.exe.config
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\csc.rsp
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\csi.exe
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\csi.exe.config
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\csi.rsp
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.AppContext.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Console.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.IO.Compression.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Security.Claims.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Threading.Thread.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.ValueTuple.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\vbc.exe
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\vbc.exe.config
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\vbc.rsp
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\VBCSCompiler.exe
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\WebPoc.dll.config
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\WebPoc.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\WebPoc.pdb
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Antlr3.Runtime.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.Web.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Newtonsoft.Json.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Poc.App.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Poc.Data.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\SimpleInjector.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\SimpleInjector.Integration.Web.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Helpers.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Mvc.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Optimization.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Razor.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.WebPages.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.WebPages.Razor.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\WebActivator.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\WebGrease.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\EntityFramework.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Poc.App.pdb
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Poc.Data.pdb
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Poc.Data.dll.config
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Poc.Domain.pdb
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\SimpleInjector.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\SimpleInjector.Integration.Web.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Helpers.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Mvc.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Optimization.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.Razor.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.WebPages.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\System.Web.WebPages.Razor.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Antlr3.Runtime.pdb
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Newtonsoft.Json.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\Microsoft.AI.Web.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\bin\EntityFramework.xml
+C:\Users\carlos\repositories\PocWeb\WebPoc\obj\Debug\WebPoc.dll
+C:\Users\carlos\repositories\PocWeb\WebPoc\obj\Debug\WebPoc.pdb

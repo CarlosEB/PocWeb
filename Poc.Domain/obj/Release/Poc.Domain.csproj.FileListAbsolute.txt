@@ -1,0 +1,4 @@
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\bin\Release\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\bin\Release\Poc.Domain.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\obj\Release\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\obj\Release\Poc.Domain.pdb

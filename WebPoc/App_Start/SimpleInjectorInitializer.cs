@@ -12,7 +12,8 @@ namespace WebPoc.App_Start
     using SimpleInjector.Integration.Web.Mvc;
     using Poc.Domain.Interfaces;
     using Poc.Data.Repositories;
-    using System.Configuration;
+    using Poc.App.Interfaces;
+    using Poc.App;
 
     public static class SimpleInjectorInitializer
     {
@@ -37,9 +38,14 @@ namespace WebPoc.App_Start
 
             container.Register(() => new PocContext("PocContext"), Lifestyle.Scoped);
 
+            container.Register<IUnitOfWork, UnitOfWork>(Lifestyle.Scoped);
+
             container.Register(typeof(IBaseRepository<>), typeof(BaseRepository<>), Lifestyle.Transient);
 
             container.Register<IUserRepository, UserRepository>(Lifestyle.Transient);
+
+            container.Register<IUserApp, UserApp>(Lifestyle.Transient);
+
         }
     }
 }

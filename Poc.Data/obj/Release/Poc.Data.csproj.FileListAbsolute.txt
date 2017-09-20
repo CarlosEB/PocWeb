@@ -1,0 +1,12 @@
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\Poc.Data.dll.config
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\Poc.Data.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\Poc.Data.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\EntityFramework.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\Poc.Domain.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\EntityFramework.xml
+C:\Users\carlos\repositories\PocWeb\Poc.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\carlos\repositories\PocWeb\Poc.Data\obj\Release\Poc.Data.csprojResolveAssemblyReference.cache
+C:\Users\carlos\repositories\PocWeb\Poc.Data\obj\Release\Poc.Data.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Data\obj\Release\Poc.Data.pdb

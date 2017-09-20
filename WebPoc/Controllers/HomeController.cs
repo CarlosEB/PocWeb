@@ -1,25 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
-using Poc.Domain.Interfaces;
+﻿using System.Web.Mvc;
+using Poc.Domain.Entities;
+using Poc.App.Interfaces;
 
 namespace WebPoc.Controllers
 {
     public class HomeController : Controller
     {
 
-        private readonly IUserRepository _userRepo;
+        private readonly IUserApp _user;
 
-        public HomeController(IUserRepository userRepo)
+        public HomeController(IUserApp user)
         {
-            _userRepo = userRepo;
+            _user = user;
         }
 
         public ActionResult Index()
         {
-            var user = _userRepo.GetAll();
+            var user = _user.GetUsers();
 
             return View();
         }
@@ -34,6 +31,14 @@ namespace WebPoc.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
+
+            var user = new User
+            {
+                Name = "Cesar Sies",
+                Address = "Rua de Londrina"
+            };
+
+            _user.Create(user);
 
             return View();
         }

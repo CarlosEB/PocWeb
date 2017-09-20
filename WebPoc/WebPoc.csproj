@@ -217,6 +217,10 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Poc.App\Poc.App.csproj">
+      <Project>{DDEDC01E-2F32-4565-8BB6-68BFDAC6F3EA}</Project>
+      <Name>Poc.App</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Poc.Data\Poc.Data.csproj">
       <Project>{73484614-FA3E-44E8-9525-A80810D8EC6A}</Project>
       <Name>Poc.Data</Name>

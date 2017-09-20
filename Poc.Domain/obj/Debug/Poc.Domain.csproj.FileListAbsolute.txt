@@ -4,3 +4,7 @@ c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Domain\
 c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Domain\obj\Debug\Poc.Domain.csproj.CoreCompileInputs.cache
 c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Domain\obj\Debug\Poc.Domain.dll
 c:\Users\carlos.barboza\documents\visual studio 2017\Projects\WebPoc\Poc.Domain\obj\Debug\Poc.Domain.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\bin\Debug\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\bin\Debug\Poc.Domain.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\obj\Debug\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\Poc.Domain\obj\Debug\Poc.Domain.pdb

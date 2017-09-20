@@ -99,6 +99,18 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Poc.App\Poc.App.csproj">
+      <Project>{ddedc01e-2f32-4565-8bb6-68bfdac6f3ea}</Project>
+      <Name>Poc.App</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Poc.Data\Poc.Data.csproj">
+      <Project>{73484614-fa3e-44e8-9525-a80810d8ec6a}</Project>
+      <Name>Poc.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Poc.Domain\Poc.Domain.csproj">
+      <Project>{7958f092-8e6e-4549-aac9-6911e650199c}</Project>
+      <Name>Poc.Domain</Name>
+    </ProjectReference>
     <ProjectReference Include="..\WebPoc\WebPoc.csproj">
       <Project>{ED44A20F-45B1-401F-80C3-2967B2825F5E}</Project>
       <Name>WebPoc</Name>

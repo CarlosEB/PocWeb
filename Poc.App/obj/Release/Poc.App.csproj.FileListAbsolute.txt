@@ -1,0 +1,11 @@
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\Poc.App.dll
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\Poc.App.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\Poc.Data.dll
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\Poc.Domain.dll
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\EntityFramework.dll
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\Poc.Data.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\Poc.Data.dll.config
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\Poc.Domain.pdb
+C:\Users\carlos\repositories\PocWeb\Poc.App\bin\Release\EntityFramework.xml
+C:\Users\carlos\repositories\PocWeb\Poc.App\obj\Release\Poc.App.dll
+C:\Users\carlos\repositories\PocWeb\Poc.App\obj\Release\Poc.App.pdb
